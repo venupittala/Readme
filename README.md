@@ -1,5 +1,4 @@
-# Readme
-VGopal@Pittala
+# VGopal@Pittala
 My models have 100% accuracy!!!
 
 Now that I have your attention...
